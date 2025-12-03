@@ -1,5 +1,5 @@
 # Final-Project-Sistem-Operasi-Proyek-6-Kelompok-HDP-1
-**PROYEK 6 | Implementasi Kontainerisasi Menggunakan Docker: Pembuatan Dockerfile, Manajemen Multikontainer dan Pembatasan Resource | Kelompok HDP1**
+**PROYEK 6 Implementasi Kontainerisasi Menggunakan Docker: Pembuatan Dockerfile, Manajemen Multikontainer dan Pembatasan Resource**
 **Disusun Oleh Kelompok HDP 1**
 1. Akbar Rizki Lingga [2401020003]
 2. Al Adlhu Sodri Niwra [2401020015]
