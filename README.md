@@ -2,7 +2,7 @@
 **PROYEK 6 Implementasi Kontainerisasi Menggunakan Docker: Pembuatan Dockerfile, Manajemen Multikontainer dan Pembatasan Resource**
 **Disusun Oleh Kelompok HDP 1**
 1. Akbar Rizki Lingga [2401020003]
-2. Al Adlhu Sodri Niwra [2401020015]
+2. Al Adlhu Sodri Niwrad [2401020015]
 3. Muhammad Al-Fikry Akbar [2401020031]
 4. Dzaky Ribal Faiz [2401020035]
 
